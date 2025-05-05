@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SonarQube
+Type=Link
+URL=http://localhost:9000/
+Icon=text-html
